@@ -7,3 +7,8 @@ https://madewithvuejs.com/tutorials
 
 vue create moz-todo-vue
 
+<template>
+  <div id="app">
+    <h1>To-Do List</h1>
+  </div>
+</template>
