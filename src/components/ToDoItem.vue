@@ -4,6 +4,12 @@
     <label for="todo-item">My Todo Item</label>
   </div>
 </template>
+
 <script>
-  export default {};
+  export default {
+    props: {
+      label: { required: true, type: String },
+      done: { default: false, type: Boolean }
+    }
+  };
 </script>

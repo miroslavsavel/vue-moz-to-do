@@ -6,16 +6,21 @@
       <to-do-item></to-do-item>
     </li>
   </ul>
+  <h1>Here is a child component!</h1>
+  <ButtonCounter />
   </div>
 </template>
 
 <script>
   import ToDoItem from './components/ToDoItem.vue';
+  // from https://vuejs.org/guide/essentials/component-basics.html#using-a-component
+  import ButtonCounter from './components/ButtonCounter.vue'
 
   export default {
   name: 'app',
   components: {
-    ToDoItem
+    ToDoItem,
+    ButtonCounter
   }
 };
 </script>

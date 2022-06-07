@@ -18,3 +18,22 @@ vue create moz-todo-vue
 # 2  - creating first VUE component
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_first_component
 
+
+## file upload front end
+- file upload vue https://www.digitalocean.com/community/tutorials/how-to-handle-file-uploads-in-vue-2
+in bulk
+https://www.smashingmagazine.com/2022/03/drag-drop-file-uploader-vuejs-3/
+
+!!!!
+https://serversideup.net/uploading-files-vuejs-axios/
+https://github.com/serversideup/uploading-files-vuejs-axios
+
+### check
+what is Axios
+how AJAX works
+components 
+https://vuejs.org/guide/essentials/component-basics.html
+https://vuejs.org/guide/essentials/component-basics.html#using-a-component
+https://www.educative.io/edpresso/what-are-vue-components
+component state
+props
