@@ -1,7 +1,7 @@
-<template> 
+<template>
   <div>
     <input type="checkbox" id="todo-item" />
-    <label for="todo-item">My Todo Item</label>
+    <label for="todo-item">{{label}}</label>
   </div>
 </template>
 

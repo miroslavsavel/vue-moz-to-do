@@ -18,6 +18,16 @@ vue create moz-todo-vue
 # 2  - creating first VUE component
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_first_component
 
+- i stop at "Vue's data object"
+
+
+
+
+
+
+
+
+
 
 ## file upload front end
 - file upload vue https://www.digitalocean.com/community/tutorials/how-to-handle-file-uploads-in-vue-2
