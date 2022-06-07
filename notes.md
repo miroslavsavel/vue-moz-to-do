@@ -12,3 +12,9 @@ vue create moz-todo-vue
     <h1>To-Do List</h1>
   </div>
 </template>
+
+
+
+# 2  - creating first VUE component
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_first_component
+
